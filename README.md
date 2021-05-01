@@ -8,7 +8,8 @@ Rossi, Harris, Carandini, Nature, 2020.](https://www.nature.com/articles/s41586-
 
 Currently, the repository contains source data and code to reproduce the main figures of the paper. 
 
-More code will be released soon, stay tuned!
+If you are interested in the code for spectral linear unmixing of fluorescent signals, please see this repo: 
+https://github.com/lfedros/Spectral-Separation
 
 ## Description
 See [Wiki](https://github.com/lfedros/Rossi-et-al-2020/wiki)
